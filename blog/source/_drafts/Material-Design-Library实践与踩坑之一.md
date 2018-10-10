@@ -1,10 +1,11 @@
 ---
 title: Material Design Library实践与踩坑之一
-date: 2017-06-25 17:14:55
 categories:
-    - Android UI
+  - Android UI
 tags:
-    - Material Design
+  - Material Design
+abbrlink: 56621
+date: 2017-06-25 17:14:55
 ---
 
 > We challenged ourselves to create a visual language for our users that synthesizes the classic principles of good design with the innovation and possibility of technology and science. This is material design.

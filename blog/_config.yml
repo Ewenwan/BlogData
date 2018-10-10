@@ -4,8 +4,8 @@
 
 # Site
 title: Peter's Blog
-subtitle: 
-description: Enjoy Coding,Enjoy Life.
+subtitle: 专注于移动开发的技术博客
+description: Enjoy Coding, Enjoy Life.
 author: 甄彦俊
 language: zh-CN
 timezone: Asia/Shanghai
@@ -104,5 +104,37 @@ search:
   field: post
   format: html
   limit: 10000
+
+# hexo-neat 静态资源压缩
+neat_enable: true 
+neat_html:
+  enable: true
+  exclude: 
+neat_css:
+  enable: false
+  exclude:
+    - '*.min.css'
+neat_js:
+  enable: true
+  mangle: true
+  output:
+  compress:
+  exclude:
+    - '*.min.js'
+
+# hexo sitemap 用于站点地图配置，主要用于SEO优化
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
+
+# 用于站点字数、阅读时间统计等
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
+
+
 
 

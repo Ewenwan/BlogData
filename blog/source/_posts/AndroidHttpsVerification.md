@@ -1,11 +1,12 @@
 ---
 title: Android Https双向验证
-date: 2018-01-14 14:33:47
 categories:
-    - Android
+  - Android
 tags:
-    - Android
-    - Https
+  - Android
+  - Https
+abbrlink: 16370
+date: 2018-01-14 14:33:47
 ---
 
 对于网络安全，我们的重视程度远远及不上欧美等国家，部署Https的网站远远少于他们；但随着互联网不断普及，国民对数据安全的需求也越来越高，Https逐渐在国内普及开来。

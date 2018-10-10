@@ -1,9 +1,10 @@
 ---
 title: 搭建个人博客网站服务说明
-date: 2018-08-04 00:09:47
 categories:
-    - temp
+  - temp
 visible: hide
+abbrlink: 29044
+date: 2018-08-04 00:09:47
 ---
 
 个人博客网站优势：

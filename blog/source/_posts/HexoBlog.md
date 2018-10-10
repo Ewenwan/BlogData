@@ -1,12 +1,13 @@
 ---
-title: '用Github Page+Hexo轻松搭建个人博客'
+title: 用Github Page+Hexo轻松搭建个人博客
+categories:
+  - Blog
+tags:
+  - Blog
+  - Hexo
+abbrlink: 40919
 date: 2017-12-23 09:58:04
 updated: 2017-12-31 09:58:04
-categories:
-    - Blog
-tags:
-    - Blog
-    - Hexo
 ---
 
 在2018年来临之际，笔者拖延了一年多的博客终于上线了，本文基于笔者的实践经验，即使你是一个技术小白，按照本文的步骤，也可以轻松搭建自己的博客。

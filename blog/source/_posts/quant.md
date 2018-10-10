@@ -1,11 +1,12 @@
 ---
-title: '从入门到放弃-量化投资学习笔记（一）'
-date: 2018-7-25 22:18:04
-updated: 2018-8-4 22:47:04
+title: 从入门到放弃-量化投资学习笔记（一）
 categories:
-    - Quant
+  - Quant
 tags:
-    - Quant
+  - Quant
+abbrlink: 13046
+date: 2018-07-25 22:18:04
+updated: 2018-08-04 22:47:04
 ---
 
 
